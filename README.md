@@ -2,6 +2,8 @@
 
 Hi everyone!, I have designed a spanner in Solidworks. For the dimensions and reference I have followed CADCAM tutorial. 
 
+To see images click on the folder #Pictures
+
 
 
 
